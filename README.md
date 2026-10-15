@@ -11,7 +11,7 @@ Formado em **Sistemas de Informação**, tenho foco em construção de pipelines
 ## 💼 Oportunidades & Contato
 
 - 📧 **E-mail:** [ricksonalves79@gmail.col](mailto:ricksonalves79@gmail.com) <!-- Troque pelo seu e-mail -->
-- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/rickson0) <!-- Troque pelo seu link -->
+- 💼 **LinkedIn:** [linkedin.com/in/rickson0](https://linkedin.com/in/rickson0) <!-- Troque pelo seu link -->
 - 📍 **Localização:** Dias d'Ávila - BA *(Disponível para trabalho Remoto ou Híbrido/Presencial em Salvador e região)*
 
 ---
