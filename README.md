@@ -1,4 +1,4 @@
-# Olá, eu sou o Rickson Silva 👋
+# Olá, eu sou o Rickson Alves da Silva 👋
 
 ### 📊 Analista & Engenheiro de Dados | Desenvolvedor Python
 
